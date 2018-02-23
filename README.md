@@ -10,3 +10,4 @@ These plugins is the ones I decided to share with everyone, since they are reall
 # There is a List of Private Plugins?
 
 For that, just contact me on steam - http://steamcommunity.com/id/HallucinogenicTroll/
+Be advised: <b>I don't sell private plugins that aren't made by myself!!</b>
