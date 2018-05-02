@@ -4,7 +4,8 @@ These plugins is the ones I decided to share with everyone, since they are reall
 
 <ul>
   <li> <b> New Custom HUD Connect Message</b> - https://github.com/hallucinogenic/New-Hud-Connect-Message</li>
-  <li> <b> Teleport Protection</b> - https://github.com/hallucinogenic/Teleport-Protection
+  <li> <b> Teleport Protection</b> - https://github.com/hallucinogenic/Teleport-Protection</li>
+  <li> <b> Glow Menu</b> - https://github.com/hallucinogenic/CS-GO-Glow-Menu</li>
 </ul>
 
 # There is a List of Private Plugins?
