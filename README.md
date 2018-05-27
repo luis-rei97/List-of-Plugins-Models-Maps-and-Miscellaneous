@@ -16,6 +16,14 @@ These models were made for my community servers and, since I don't have them any
 
 Link to the models repository - https://github.com/hallucinogenic/CS-GO-Ported-Models
 
+# List of Public Maps
+
+<ul>
+  <li> <b> MG Lego Course</b> - https://steamcommunity.com/sharedfiles/filedetails/?id=416627083</li>
+  <li> <b> MG Office Course 2012</b> - https://steamcommunity.com/sharedfiles/filedetails/?id=416331472</li>
+</ul>
+
+
 # There is a List of Private Plugins?
 
 For that, just contact me on steam - http://steamcommunity.com/id/HallucinogenicTroll/
