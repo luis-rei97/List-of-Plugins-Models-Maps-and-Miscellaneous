@@ -1,8 +1,8 @@
 # List of Public Plugins.
 
-These plugins is the ones I decided to share with everyone, since they are really simple features.
+These plugins is the ones I decided to share with everyone.
 
-- <b> New Custom HUD Connect Message</b> - https://github.com/hallucinogenic/New-Hud-Connect-Message</li>
+- <b> HUD Text Connect Message</b> - https://github.com/hallucinogenic/HUD-Text-Connect-Message</li>
 - <b> Teleport Protection</b> - https://github.com/hallucinogenic/Teleport-Protection</li>
 - <b> Glow Menu</b> - https://github.com/hallucinogenic/CS-GO-Glow-Menu</li>
 - <b> Zombie Reloaded Rank</b>  - https://github.com/hallucinogenic/-ZR-Zombie-Rank</li>
