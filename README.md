@@ -11,6 +11,12 @@ These plugins is the ones I decided to share with everyone.
 
 # List of Private Plugins
 
+These plugins are the ones that I keep private!
+Some of these I may not want to sell, since I want to keep some of them for myself.
+If you have a suggestion for a new plugin, contact me on steam - http://steamcommunity.com/id/HallucinogenicTroll/
+<br>Note #1: <b>I don't sell private plugins that aren't made by myself!!</b>
+<br>Note #2: <b>All the plugins below are made by me!</b> (Doesn't mean that exists similar ones).
+
 - <b>Tesla Effect</b> - When a player dies, it shows a <b>lightning bolt</b>, similar to a Tesla Effect. 
     <br>It has a menu to change the color and flag support (can be changed in a CFG File).</li> 
 - <b>Weapon Thrown Strengh</b> - It changes the velocity of a weapon when it's thrown by a player.
@@ -25,10 +31,9 @@ These plugins is the ones I decided to share with everyone.
     <br> It has color and size support by a menu</li>
 - <b>Zephyrus Coins</b> - It let's you change the Medal Coins (Ex: Operation Coins), using credits of Zephyrus Store;
 - <b>Zephyrus Music Kits</b> - It let's you change the Music Kits, using credits of Zephyrus Store;
+- <b>Warmup Event: AND HIS NAME IS JOHN CENA!!</b> - It adds an effect with John Cena showing in the map, on Warmup!
+- <b>Custom Knifes (!cknife)</b> - It changes your knife to a customized one. It has MySQL and Flag Support.
 
-This List may be not complete!
-If you have a suggestion for a new plugin, contact me on steam - http://steamcommunity.com/id/HallucinogenicTroll/
-<br>Be advised: <b>I don't sell private plugins that aren't made by myself!!</b>
 
 # List of Public Models
 
