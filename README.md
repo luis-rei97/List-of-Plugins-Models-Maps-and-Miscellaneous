@@ -32,8 +32,9 @@ If you have a suggestion for a new plugin, contact me on steam - http://steamcom
 - <b>Zephyrus Coins</b> - It let's you change the Medal Coins (Ex: Operation Coins), using credits of Zephyrus Store;
 - <b>Zephyrus Music Kits</b> - It let's you change the Music Kits, using credits of Zephyrus Store;
 - <b>Warmup Event: AND HIS NAME IS JOHN CENA!!</b> - It adds an effect with John Cena showing in the map, on Warmup!
+- <b>Warmup Event: ZOMBIES!!</b> - On Warmup, one of the teams is turning into zombies!
 - <b>Custom Knifes (!cknife)</b> - It changes your knife to a customized one. It has MySQL and Flag Support.
-
+- <b>Warmup Player Models</b> - It lets you change your Player Model while in Warmup.
 
 # List of Public Models
 
