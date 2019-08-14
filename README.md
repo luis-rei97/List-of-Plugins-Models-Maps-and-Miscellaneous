@@ -15,7 +15,7 @@ Name | Description | Requirements | Repository
 
 # List of Private Plugins
 
-These plugins are the ones that I keep private!
+These plugins are the ones that I keep private, for various reasons!
 
 All of these plugins are using the [Sourcemod](https://www.sourcemod.net/) Addon. 
 
@@ -42,6 +42,8 @@ Name | Description | Requirements
 **Custom Knifes (!cknife)** | It changes your knife to a customized one. It has MySQL and Flag Support. | [View Model Interface](https://github.com/Franc1sco/First-Person-View-Models-Interface)
 **Warmup Player Models** | It lets you change your Player Model while in Warmup, with Flag Support | None
 **Retakes/Executes Weapon Allocator** | It allocates weapons to certain players. It has support for 3 types of rounds: Pistol Rounds, Force Buy Rounds and Rifle Rounds. The weapons can be changed by editing a file with the weapons for the certain rounds, and it has flag support. | [Retakes](https://github.com/splewis/csgo-retakes) or [Executes](https://github.com/splewis/csgo-executes)
+**MultiConfig Change Announcer** | A lot of commands to use when some config has been changed in the server. Useful for DeathMatch MultiMode | None
+**Bot Names** | Change BOT's Names when they join the server. It checks if the names are completely different from other bots.
 
 # List of Public Models
 
