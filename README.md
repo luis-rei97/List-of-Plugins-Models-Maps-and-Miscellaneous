@@ -13,19 +13,20 @@ Name | Description | Requirements | Repository
 **Matchmaking Fake Ranks (by Points)** | Prints the Matchmaking Ranks on scoreboard, based on points set by a certain rank plugin. | [RankMe](https://github.com/rogeraabbccdd/Kento-Rankme) or [GameMe](https://www.gameme.com/) or [Zombie Rank](https://github.com/hallucinogenic/-ZR-Zombie-Rank) | [click here](https://github.com/hallucinogenic/MatchMaking-Ranks-By-Points)
 **Chat & Clan Tags for Zombie Reloaded** | It sets Tags on Scoreboard, and in Chat, depending of which team you are representing in the Zombie Reloaded game. | [Zombie Reloaded](https://github.com/Franc1sco/sm-zombiereloaded-3-Franug-Edition) | [click here](https://github.com/hallucinogenic/-CS-GO-ZR-Clan-Chat-Tags)
 
+
 # List of Private Plugins
 
 These plugins are the ones that I keep private, for various reasons!
 
 All of these plugins are using the [Sourcemod](https://www.sourcemod.net/) Addon. 
 
-Some of these I may not want to sell, since I want to keep some of them for myself.
+If you have a suggestion for a new plugin, contact me on steam - http://steamcommunity.com/profiles/76561198013119117
 
-If you have a suggestion for a new plugin, contact me on steam - http://steamcommunity.com/id/HallucinogenicTroll/
+WARNING #1: **I don't sell private plugins that aren't made by myself!!**
 
-Note #1: **I don't sell private plugins that aren't made by myself!!**
+WARNING #2: **All the plugins below are made by me!</b> (Doesn't mean that exists similar ones).**
 
-Note #2: **All the plugins below are made by me!</b> (Doesn't mean that exists similar ones).**
+WARNING #3: **Not all these plugins are for sale, this is only a list of plugins that I've made for my old communities, or for selling! Contact me if you are interested in any of them.**
 
 Name | Description | Requirements
 --- | --- | ---
@@ -37,13 +38,14 @@ Name | Description | Requirements
 **World Text** | It shows a text by a command, with a phrase you want to be shown. <br> It has color and size support. | None
 **Zephyrus Coins** | It let's you change the Medal Coins (Ex: Operation Coins), using credits. | [Zephyrus Store](https://github.com/dvarnai/store-plugin)
 **Zephyrus Music Kits** |  It let's you change the Music Kits, using credits. | [Zephyrus Store](https://github.com/dvarnai/store-plugin)
-**Warmup Event: AND HIS NAME IS JOHN CENA!!** | In warmup, it appears a John Cena model on a certain spot of the map. It has support for multiple places of the map, as a  | None
-**Warmup Event: ZOMBIES!!** | In warmup, one of the teams are transformed into zombies, with only knives and more HP than the humans. | None
+**Warmup Events** | It has customizable events during the warmup, such as restricted weapons, team zombies, John Cena Boss, etc. | None
 **Custom Knifes (!cknife)** | It changes your knife to a customized one. It has MySQL and Flag Support. | [View Model Interface](https://github.com/Franc1sco/First-Person-View-Models-Interface)
 **Warmup Player Models** | It lets you change your Player Model while in Warmup, with Flag Support | None
 **Retakes/Executes Weapon Allocator** | It allocates weapons to certain players. It has support for 3 types of rounds: Pistol Rounds, Force Buy Rounds and Rifle Rounds. The weapons can be changed by editing a file with the weapons for the certain rounds, and it has flag support. | [Retakes](https://github.com/splewis/csgo-retakes) or [Executes](https://github.com/splewis/csgo-executes)
 **MultiConfig Change Announcer** | A lot of commands to use when some config has been changed in the server. Useful for DeathMatch MultiMode | None
-**Bot Names** | Change BOT's Names when they join the server. It checks if the names are completely different from other bots.
+**Bot Names** | Change BOT's Names when they join the server. It checks if the names are completely different from other bots. | None
+**Matchmaking Ranks** | It gives you a matchmaking (or customizable) rank by certain rank points. It has support for multiple types of rank's plugins | [Kento Rankme](https://forums.alliedmods.net/showthread.php?t=290063), [Shavit Timer](https://timer.shav.it/), [SurfTimer](https://github.com/surftimer/Surftimer-Official), Jailbreak Ranks (PRIVATE)
+**Customizable Tags** | It set's a tag for certain SteamIDs & for certain Staff members. It uses MySQL to store all the tags. It has support for Clan/Chat tags, along with an external API with third party plugins (Connect/Disconnect messages, Team Join messages, etc), with a menu to toggle all the tags. | None
 
 # List of Public Models
 
@@ -53,5 +55,4 @@ Link to the models repository - https://github.com/hallucinogenic/CS-GO-Ported-M
 
 # List of Public Maps
 
-* **MG Lego Course** - https://steamcommunity.com/sharedfiles/filedetails/?id=416627083</li>
-* **MG Office Course 2012** - https://steamcommunity.com/sharedfiles/filedetails/?id=416331472</li>
+Every map that I have for the public can be seen in my Steam Workshop: https://steamcommunity.com/id/HalluciTroll/myworkshopfiles/
